@@ -1,0 +1,11 @@
+numpy 1.21.6 to 1.16.5
+
+
+funcion de activacion
+funcion de perdida
+algoritmo de optimizacion
+tasa de aprendizaje
+hiperparámetro 
+metricas de rendimiento
+overfitting vs underfitting
+medidas de tendencia central
